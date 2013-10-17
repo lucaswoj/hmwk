@@ -1,0 +1,24 @@
+{
+  "name": "hmwk",
+  "version": "0.0.1",
+  "description": "Utility program for doing homework at uWaterloo",
+  "main": "src/hmwk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Lucas Wojciechowski",
+  "license": "BSD",
+  "bin": {
+    "hmwk": "bin/hmwk.js"
+  },
+  "dependencies": {
+    "ssh2": "",
+    "async": "",
+    "underscore": "",
+    "generic-pool": "",
+    "retry": "",
+    "minimatch": "",
+    "diff": ""
+  }
+}
