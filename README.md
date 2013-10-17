@@ -1,6 +1,5 @@
 # Hmwk
 
-## Requirements
+This is a build and deployment system designed for CS homework at uWaterloo. 
 
- - node.js and npm installed on your system
- - A reasonably modern version of `rsync` in your path
+Documentation coming someday...
